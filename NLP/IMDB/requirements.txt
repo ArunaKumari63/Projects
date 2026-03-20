@@ -1,0 +1,8 @@
+numpy
+torch
+matplotlib
+scikit-learn
+datasets
+os
+collections
+re
