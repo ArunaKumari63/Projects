@@ -6,3 +6,5 @@ datasets
 os
 collections
 re
+streamlit
+pickle
